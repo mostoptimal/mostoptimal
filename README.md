@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mostoptimal
+- 👋 Hi, I’m Mohamad Alhariri
 - 👀 I’m interested in Software deveoping/ Backend developing
 - 🌱 I’m currently learning slowly git/Python/c#/Excel/
 - 💞️ I’m looking to collaborate on interesing Projects
