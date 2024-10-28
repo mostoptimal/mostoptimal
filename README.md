@@ -11,10 +11,7 @@ You can click the Preview link to take a look at your changes.
 # Mohamad Alhariri
 
 ## Kontakt
-- **Adresse:** Bahnhofstraße 4, 35390 Gießen
 - **E-Mail:** mostoptimal@hotmail.com
-- **Telefon:** 01603436802
-- **Geboren:** 08.05.1991
 - **LinkedIn:** [linkedin.com/in/mohamadalhariri1](https://linkedin.com/in/mohamadalhariri1)
 - **GitHub:** [github.com/mostoptimal](https://github.com/mostoptimal)
 
