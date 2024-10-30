@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohamad Alhariri
 - 👀 I’m interested in Software deveoping/ Backend developing
+- I have Experinience in Java, JavaScript, some C
 - 🌱 I’m currently learning slowly git/Python/c#/Excel/
 - 💞️ I’m looking to collaborate on interesing Projects
 - 📫 How to reach me: my Email
