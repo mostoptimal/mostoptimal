@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Mohamad Alhariri
+# 👋 Welcome to my humble Profile:
+## I’m Mohamad Alhariri
 
 Welcome to my GitHub! I'm a curious and motivated learner passionate about software development and solving real-world problems with code.
 
@@ -15,10 +16,10 @@ Welcome to my GitHub! I'm a curious and motivated learner passionate about softw
 
 ## 💻 Tech Stack
 
-- 🐍 Python (Beginner → Advanced)
+- 🐍 Python as Backend (Beginner → Advanced)
 - 🧰 Tools: Git, GitHub, VS Code
 - 🌐 Interested in: Web Development, Scripting, Automation
-- 📚 Always learning: Data Structures & Algorithms, Clean Code, Design Patterns
+- 📚 learning: Data Structures & Algorithms, Clean Code, Design Patterns
 
 ---
 
@@ -34,6 +35,7 @@ Welcome to my GitHub! I'm a curious and motivated learner passionate about softw
 ## 🚀 Goals
 
 - Build practical and meaningful apps.
+- Help Optimizing build ones.
 - Expand my skills across full-stack development.
 - Connect with fellow devs and learn through collaboration.
 
